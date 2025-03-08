@@ -1,2 +1,3 @@
-2025/03/07-18:20:26.685 fa03 Creating DB /Users/diegomarroquin/Documents/Venom-Render/tokens/whatsapp-bot-session/Default/Sync Data/LevelDB since it was missing.
-2025/03/07-18:20:26.696 fa03 Reusing MANIFEST /Users/diegomarroquin/Documents/Venom-Render/tokens/whatsapp-bot-session/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/03/07-19:12:14.248 8503 Reusing MANIFEST /Users/diegomarroquin/Documents/Venom-Render/tokens/whatsapp-bot-session/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/03/07-19:12:14.250 8503 Recovering log #3
+2025/03/07-19:12:14.250 8503 Reusing old log /Users/diegomarroquin/Documents/Venom-Render/tokens/whatsapp-bot-session/Default/Sync Data/LevelDB/000003.log 
